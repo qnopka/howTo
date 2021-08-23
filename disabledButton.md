@@ -1,4 +1,4 @@
-### How to make custom email validation
+### How to make a disabled button with an empty input.
 If the input is empty, you can disable the button.This recipe is there for how to implement this in UI Builder:
 
 Implement an onlick event for the button. The Input component is a field for entering an email:
